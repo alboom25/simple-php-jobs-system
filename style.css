@@ -1,0 +1,19 @@
+body {
+  font: 14px sans-serif;
+}
+.wrapper {
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+}
+.wrapper-large {
+  width: 600px;
+  padding: 8px;
+  margin: auto;
+}
+.container {
+  height: 100vh;
+}
+.help-block {
+  color: #ff0000;
+}
